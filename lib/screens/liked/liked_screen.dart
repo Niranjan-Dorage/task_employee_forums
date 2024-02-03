@@ -157,7 +157,7 @@ class LikedScreen extends StatelessWidget {
               );
             })
         : const Center(
-            child: Text("connect to the internet to load offline content"),
+            child: Text("no liked posts yet!"),
           );
   }
 }
